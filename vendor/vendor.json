@@ -19,6 +19,11 @@
 			"path": "golang.org/x/net/context/ctxhttp",
 			"revision": "9ef22118a4b25863aa94546daffbc0a18feaafb3",
 			"revisionTime": "2016-11-09T21:27:32Z"
+		},
+		{
+			"path": "github.com/elazarl/goproxy",
+			"Comment": "v1.0-96-g6016d23",
+			"Rev": "6016d2397298b0750eeb06f4d24e03cfd7e45c77"
 		}
 	],
 	"rootPath": "github.com/kkdai/LineBotTemplate"
