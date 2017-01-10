@@ -5,9 +5,9 @@
 		{
 			"revision": "6016d2397298b0750eeb06f4d24e03cfd7e45c77",
 			"comment": "v1.0-96-g6016d23",
-			"path": "github.com/elazarl/goproxy",
-		},
-		{
+			"path": "github.com/elazarl/goproxy"
+		}
+		/*{
 			"checksumSHA1": "h8ZzyQTRljjxHgqCHniOd1hURV8=",
 			"path": "github.com/line/line-bot-sdk-go/linebot",
 			"revision": "b7e1bd128fef0e6a532d1afce049cbcd8dc5f4c8",
@@ -24,7 +24,7 @@
 			"path": "golang.org/x/net/context/ctxhttp",
 			"revision": "9ef22118a4b25863aa94546daffbc0a18feaafb3",
 			"revisionTime": "2016-11-09T21:27:32Z"
-		}
+		}*/
 	],
 	"rootPath": "github.com/bino7/LineBotTemplate"
 }
